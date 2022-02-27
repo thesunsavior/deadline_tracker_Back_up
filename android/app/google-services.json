@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745733328213",
+    "project_id": "deadlinetracker-97ad5",
+    "storage_bucket": "deadlinetracker-97ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745733328213:android:88df3472c544aee1f9b3dc",
+        "android_client_info": {
+          "package_name": "com.example.deadline_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745733328213-bshvnmfnm4kjhc3q8cdpb5b9mqnehh3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb5v6nzvg9PKMjTNJIrm-WybmMzATd1ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745733328213-bshvnmfnm4kjhc3q8cdpb5b9mqnehh3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
